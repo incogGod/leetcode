@@ -4,3 +4,5 @@ class Solution:
             return False
         else:
             return True
+   
+# used set to get number of unique elements, checked length with length of list
